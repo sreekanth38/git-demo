@@ -17,4 +17,5 @@ public class Role {
 	@GeneratedValue
 	private int roll_id;
 	private int roll_name;
+	
 }
